@@ -1,0 +1,60 @@
+{
+  "account": [
+    {
+      "id": "2c92",
+      "acno": "SBI101",
+      "pin": "123",
+      "name": "Sheeshpal Singh",
+      "fname": "u singh",
+      "email": "sheeshpalrana9@gmail.com",
+      "phone": "09756809210",
+      "gender": "Male",
+      "country": "India",
+      "state": "Uttarakkhand",
+      "city": "Dehradun",
+      "amount": "20000"
+    },
+    {
+      "id": "cd83",
+      "acno": "SBI102",
+      "pin": "123",
+      "name": "Sheeshpal Singh",
+      "fname": "u singh",
+      "email": "sheeshpalrana9@gmail.com",
+      "phone": "09756809210",
+      "gender": "Male",
+      "country": "India",
+      "state": "Uttarakkhand",
+      "city": "Dehradun",
+      "amount": "20000"
+    },
+    {
+      "id": "78dd",
+      "acno": "SBI103",
+      "pin": "551",
+      "name": "sss",
+      "fname": "sed",
+      "email": "s1@gmail.com",
+      "phone": "5052055",
+      "gender": "female",
+      "country": "India",
+      "state": "Uttarakkhand",
+      "city": "Dehradun",
+      "amount": "20000"
+    },
+    {
+      "id": "ca5e",
+      "acno": "SBI104",
+      "pin": "1122",
+      "name": "sss",
+      "fname": "eee",
+      "email": "shees@gmail.com",
+      "phone": "08588558858",
+      "gender": "female",
+      "country": "India",
+      "state": "Uttarakkhand",
+      "city": "Dehradun",
+      "amount": "5200"
+    }
+  ]
+}
