@@ -10,3 +10,4 @@ Deposit Amount: Users can deposit money into their accounts and view updated bal
 Account Management: Users can check their balance and transaction history.
 Security: All transactions are encrypted and secure.
 </div>
+
